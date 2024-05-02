@@ -79,13 +79,13 @@ export default function Header() {
                   </NavLink>
                 </li>
                 <li className="my-1">
-                  <NavLink to="sideProjects" className="">
-                    side projects
-                  </NavLink>
-                </li>
-                <li className="my-1">
                   <NavLink to="resume" className="">
                     resume
+                  </NavLink>
+                </li>{" "}
+                <li className="my-1">
+                  <NavLink to="sideProjects" className="">
+                    side projects
                   </NavLink>
                 </li>
               </ul>

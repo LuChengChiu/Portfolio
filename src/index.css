@@ -230,4 +230,12 @@
       background-color: var(--accent);
     }
   }
+  .project-card {
+    &:hover {
+      a {
+        transform: translateY(-1em);
+        opacity: 1;
+      }
+    }
+  }
 }
