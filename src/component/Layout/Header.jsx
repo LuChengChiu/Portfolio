@@ -50,7 +50,7 @@ export default function Header() {
         className="h-24 flex justify-between px-20 items-center select-none sticky top-0 left-0 tb:px-10 sm:px-6  z-20"
       >
         <span className="text-4xl font-bold font-Rubik tb:text-2xl sm:text-xl">
-          Lu-Cheng Chiu
+          <NavLink to="/">Lu-Cheng Chiu</NavLink>
         </span>
         <div className="flex justify-evenly w-48 tb:w-32 sm:w-28 relative items-center">
           <div className="relative" data-dropdown>
