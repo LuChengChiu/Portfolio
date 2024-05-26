@@ -61,7 +61,7 @@ export default function SideProjects() {
                 </span>
               </span>
               <a
-                href="https://titanium.zeabur.app/"
+                href="https://titanium-zippo-acc.vercel.app/"
                 target="_blank"
                 className="absolute bottom-10 text-xl capitalize font-Lora border py-1 w-48 rounded-3xl transition-all duration-300 ease-in-out opacity-0 flex items-center justify-center"
               >
